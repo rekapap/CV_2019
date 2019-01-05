@@ -4,6 +4,16 @@ I'm a full stack developer in the making, with the background of graphic/web des
 
 ## Projects
 
+### Makers Projects
+1. Splitr(https://github.com/JL-J/splitr_app)
+  - A Native Mobile app that helps split task between friends in preparation for an event.
+  - ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Andriod Studio)
+2. Makers BNB(https://github.com/toddpla/makersbnb)
+  - AirBNB 'Clone'
+  - Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork
+3. Acebook(https://github.com/rekapap/acebook-busy-politicians)
+  - Facebook 'Clone'
+  - Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec
 
 ## Skills
 
@@ -22,6 +32,12 @@ That's the most interesting part for me from coding. Therefore I started solving
 
 ## Experience
 
+**Makers** (September 2018 - December 2018)
+
+- Pair Programming, Teamwork, Agile
+- Learning new concepts
+
+
 **Managing Home Renovation Project** (2017 February - Spring 2018)
 
 - Project manage a team of builders and renovators to renovate a new property and rebuild it (almost from scratch)
@@ -29,6 +45,7 @@ That's the most interesting part for me from coding. Therefore I started solving
 
 
 **Job Hunting in UK as a Graphic Designer** (March 2016 - January 2017)
+
 - During this time I started learning the basics of Programming(Java) through books.
 
 
@@ -101,8 +118,9 @@ KREA Contemporary Art School, Budapest (Hungary)
 - CSS and HTML coding
 - PhotoShop, Illustrator, InDesign
 - Marketing
-- Web ergonomics
+- Web ergonomics(User experience)
 - Art History
+
 
 #### 2D ANIMATOR, inbetweening / June 2013 – May 2014
 
