@@ -13,7 +13,7 @@ I'm a full stack developer in the making, with the background of graphic/web des
   - Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork
 3. Acebook(https://github.com/rekapap/acebook-busy-politicians)
   - Facebook 'Clone'
-  - Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec
+  - Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec, Teamwork
 
 ## Skills
 
