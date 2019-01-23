@@ -1,6 +1,8 @@
 ## Reka Pap
 
-I'm a full stack developer in the making, with the background of graphic/web design and art history. I recently discovered that I enjoy coding and, after learning some basics on my own, I joined Makers Academy to progress my new carrier path. I want to learn new technologies, and work on interesting and challenging projects.
+## Introduction
+### About me
+I'm a full stack developer with experience in graphic design and animation.
 
 ## Projects
 
