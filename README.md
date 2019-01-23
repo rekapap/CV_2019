@@ -7,6 +7,9 @@ I'm a full stack developer with experience in graphic design and animation.
 ### Where did my interest start
 It started with building simple websites in CSS and HTML or using Joomla. Meanwhile, I was teaching myself Photoshop, Illustrator and other design software. Later on, my software engineer partner started quizzing me on various programming questions just for fun. That's when my interests fully got peaked. Since then I enjoy solving problems on various websites like Codewars, Hackerrank, Leetcode etc.
 
+### Where I Work Best
+In an open-minded, motivated and moderately geeky tech team who work to high standards while having fun at the same time. Preferably while watching Avengers. I also add graphic design skills to the team, but I'm committed to a career change as a Full-Stack or Back-end developer.
+
 ## Projects
 
 ### Makers Projects
