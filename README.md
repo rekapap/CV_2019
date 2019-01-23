@@ -10,6 +10,9 @@ It started with building simple websites in CSS and HTML or using Joomla. Meanwh
 ### Where I Work Best
 In an open-minded, motivated and moderately geeky tech team who work to high standards while having fun at the same time. Preferably while watching Avengers. I also add graphic design skills to the team, but I'm committed to a career change as a Full-Stack or Back-end developer.
 
+### What I'm currently working on
+Expanding my 'horizon' by learning new things, like Phaser.js, P5.js, Java, iOS Mobile App development using Swift.
+
 ## Projects
 
 ### Makers Projects
