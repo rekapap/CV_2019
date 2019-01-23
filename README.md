@@ -13,6 +13,13 @@ In an open-minded, motivated and moderately geeky tech team who work to high sta
 ### What I'm currently working on
 Expanding my 'horizon' by learning new things, like Phaser.js, P5.js, Java, iOS Mobile App development using Swift.
 
+### What I Bring
+- High-Level Design Skills / Architecture
+- Deep interest in tech languages (e.g. Java, C#, Swift)
+- Self-Led Learning
+- Holding myself to high standards
+- Graphic Design skills (PhotoShop, Illustrator, InDesign)
+
 ## Projects
 
 ### Makers Projects
